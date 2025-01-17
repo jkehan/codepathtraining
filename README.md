@@ -1,1 +1,1 @@
-# Cyber Red Team and Blue Team Training
+# CYB102-SP25
